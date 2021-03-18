@@ -1,0 +1,42 @@
+D:\Development\Comp Org & Assembly Lang\Project4\bin\Debug\Project4.exe.config
+D:\Development\Comp Org & Assembly Lang\Project4\bin\Debug\Project4.exe
+D:\Development\Comp Org & Assembly Lang\Project4\bin\Debug\Project4.pdb
+D:\Development\Comp Org & Assembly Lang\Project4\obj\Debug\Project4.csprojAssemblyReference.cache
+D:\Development\Comp Org & Assembly Lang\Project4\obj\Debug\Project4.Form1.resources
+D:\Development\Comp Org & Assembly Lang\Project4\obj\Debug\Project4.Properties.Resources.resources
+D:\Development\Comp Org & Assembly Lang\Project4\obj\Debug\Project4.csproj.GenerateResource.cache
+D:\Development\Comp Org & Assembly Lang\Project4\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+D:\Development\Comp Org & Assembly Lang\Project4\obj\Debug\Project4.exe
+D:\Development\Comp Org & Assembly Lang\Project4\obj\Debug\Project4.pdb
+D:\Development\Apps Programming\Project4\bin\Debug\Project4.exe.config
+D:\Development\Apps Programming\Project4\bin\Debug\Project4.exe
+D:\Development\Apps Programming\Project4\bin\Debug\Project4.pdb
+D:\Development\Apps Programming\Project4\obj\Debug\Project4.csprojAssemblyReference.cache
+D:\Development\Apps Programming\Project4\obj\Debug\Project4.Form1.resources
+D:\Development\Apps Programming\Project4\obj\Debug\Project4.Properties.Resources.resources
+D:\Development\Apps Programming\Project4\obj\Debug\Project4.csproj.GenerateResource.cache
+D:\Development\Apps Programming\Project4\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+D:\Development\Apps Programming\Project4\obj\Debug\Project4.exe
+D:\Development\Apps Programming\Project4\obj\Debug\Project4.pdb
+C:\Users\soren\OneDrive\Desktop\Project4\bin\Debug\Project4.exe.config
+C:\Users\soren\OneDrive\Desktop\Project4\bin\Debug\Project4.exe
+C:\Users\soren\OneDrive\Desktop\Project4\bin\Debug\Project4.pdb
+C:\Users\soren\OneDrive\Desktop\Project4\obj\Debug\Project4.csprojAssemblyReference.cache
+C:\Users\soren\OneDrive\Desktop\Project4\obj\Debug\Project4.Properties.Resources.resources
+C:\Users\soren\OneDrive\Desktop\Project4\obj\Debug\Project4.csproj.GenerateResource.cache
+C:\Users\soren\OneDrive\Desktop\Project4\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+C:\Users\soren\OneDrive\Desktop\Project4\obj\Debug\Project4.exe
+C:\Users\soren\OneDrive\Desktop\Project4\obj\Debug\Project4.pdb
+C:\Users\soren\OneDrive\Desktop\Project4\obj\Debug\Project4.mainForm.resources
+C:\Users\soren\OneDrive\Desktop\Project4\obj\Debug\Project4.formPriceSheet.resources
+C:\Users\soren\OneDrive\Desktop\project-7\bin\Debug\Project4.exe.config
+C:\Users\soren\OneDrive\Desktop\project-7\bin\Debug\Project4.exe
+C:\Users\soren\OneDrive\Desktop\project-7\bin\Debug\Project4.pdb
+C:\Users\soren\OneDrive\Desktop\project-7\obj\Debug\Project4.csprojAssemblyReference.cache
+C:\Users\soren\OneDrive\Desktop\project-7\obj\Debug\Project4.mainForm.resources
+C:\Users\soren\OneDrive\Desktop\project-7\obj\Debug\Project4.formPriceSheet.resources
+C:\Users\soren\OneDrive\Desktop\project-7\obj\Debug\Project4.Properties.Resources.resources
+C:\Users\soren\OneDrive\Desktop\project-7\obj\Debug\Project4.csproj.GenerateResource.cache
+C:\Users\soren\OneDrive\Desktop\project-7\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+C:\Users\soren\OneDrive\Desktop\project-7\obj\Debug\Project4.exe
+C:\Users\soren\OneDrive\Desktop\project-7\obj\Debug\Project4.pdb
